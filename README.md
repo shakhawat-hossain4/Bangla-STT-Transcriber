@@ -29,5 +29,6 @@ A final year project focused on developing an efficient and accurate Automatic S
 ### 📈 Conclusion
 Our project demonstrates that transformer-based models like Whisper can be fine-tuned effectively even with limited resources to support Bangla ASR tasks. This can be foundational for building robust Bangla voice-driven applications.
 
-📄 [**View Full Project Report (PDF)**](https://github.com/shakhawat-hossain4/Bangla-STT-Transcriber/blob/main/CSE_465_final%20Project%20Report.pdf)
+[📄 View Full Project Report (PDF)](https://github.com/shakhawat-hossain4/Bangla-STT-Transcriber%28/blob/main/CSE_465_final%20Project%20Report.pdf)
+
 
